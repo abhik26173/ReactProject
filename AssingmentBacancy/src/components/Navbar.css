@@ -1,0 +1,9 @@
+@media (max-width: 767px) {
+  .nav-btn {
+    display: flex;
+    flex-direction: column;
+  }
+  .btn-outline-light {
+    border: none;
+  }
+}
